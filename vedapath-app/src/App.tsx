@@ -30,7 +30,7 @@ import './App.css';
 
 const PHONE_NUMBER = '+61470356307';
 const WHATSAPP_NUMBER = '+61470356307';
-const EMAIL = 'vpeconsultants@gmail.com';
+const EMAIL = 'info.vpeconsultants@gmail.com';
 
 const services = [
   {
